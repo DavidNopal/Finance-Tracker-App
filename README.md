@@ -1,4 +1,5 @@
 <h1>Finance Tracker App</h1>
+<h2>Jesus David Nodal  CWID : 846559284</h2>
 <hr>
 <h2>Sign-Up Screen</h2>
 <p>Sign-Up screen where the user enters information to create an account.</p>
